@@ -373,7 +373,7 @@ body {
   line-height: 48px;
   color: #FFFFFF;
   margin-bottom: 15px;
-  margin-top: 40px;
+  padding-top: 40px;
 }
 
 .accountet p {
@@ -556,6 +556,9 @@ body {
 
 .links li {
   margin-left: 10px;
+}
+.links a{
+  display:inline-block
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2),
